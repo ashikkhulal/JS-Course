@@ -1,6 +1,6 @@
 # JS Course:
 
-Welcome to "JS Course" GitHub repository! This repository contains the source code and materials for a TypeScript tutorial series by [SuperSimpleDev](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev).
+Welcome to "JS Course" GitHub repository! This repository contains the source code and materials for a JavaScript tutorial series by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev).
 
 ## Getting Started:
 
@@ -14,10 +14,12 @@ To clone the repository, use the following command:
 
 ## Structure:
 
-The repo is structured into 10 separate directories, starting from Part-01 to Part-21. Each day's directory contains tasks, exercises, or learning resources regarding TypeScript development:
+The repo is structured into 10 separate directories, starting from lesson-01 to lesson-21. Each day's directory contains lessons, exercises, or learning resources regarding JavaScript development:
 
-### [PART-01](./PART-01)
-- Introduction and Setup
+### [lesson-01](./lesson-01)
+- JavaScript basics
+
+
 
 
 ___
